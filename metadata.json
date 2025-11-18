@@ -1,0 +1,5 @@
+{
+  "name": "Project Nexus: AI Multi-Agent Development",
+  "description": "A platform where multiple AI agents collaborate to autonomously generate code, tests, and documentation for software projects based on user-provided tasks.",
+  "requestFramePermissions": []
+}
